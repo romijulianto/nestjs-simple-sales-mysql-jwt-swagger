@@ -5,5 +5,6 @@ _Documentation by Romi Julianto_
 ```bash
 - npm i -g @nestjs/cli
 - nest new backend
-= npm i @nestjs/typeorm typeorm mysql2 @nestjs/config
+- npm i @nestjs/typeorm typeorm mysql2 @nestjs/config
+- nest g res user
 ```
